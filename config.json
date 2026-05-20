@@ -6,8 +6,8 @@
   "register_endpoint": "register.php",
   "android_id_param": "android_id",
   "secret_key": "WINBAAZ_SECURE_2026",
-  "version_code": 2,
-  "version_name": "2.0",
+  "version_code": 1,
+  "version_name": "1.0",
   "update_url": "https://rez10.online/app.apk",
   "force_update": false,
   "update_message": "New WINBAAZ update available with better performance and fixes."
