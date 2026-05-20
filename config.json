@@ -1,0 +1,23 @@
+{
+  "// SECTION 1 - MAIN WEBSITE URL": "",
+  "url": "https://rez10.online/final/dashboard.php",
+
+  "// SECTION 2 - SPLASH SCREEN": "",
+  "splash_image": "https://rez10.online/final/gulrez.png",
+
+  "// SECTION 3 - API ENDPOINTS FOR FCM & USER": "",
+  "api_get_user": "https://rez10.online/final/api/get_user.php",
+  "api_save_token": "https://rez10.online/final/api/save_token.php",
+
+  "// SECTION 4 - REGISTER PAGE FILE NAME & PARAMETERS": "",
+  "register_endpoint": "register.php",
+  "android_id_param": "android_id",
+  "secret_key": "WINBAAZ_SECURE_2026",
+
+  "// SECTION 5 - UPDATE CHECK": "",
+  "version_code": 2,
+  "version_name": "2.0",
+  "update_url": "https://rez10.online/app.apk",
+  "force_update": false,
+  "update_message": "New WINBAAZ update available with better performance and fixes."
+}
